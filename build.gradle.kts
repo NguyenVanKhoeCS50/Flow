@@ -8,7 +8,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
   id("org.jetbrains.kotlinx.kover") version "0.7.3" apply false
-  id("com.diffplug.spotless") version "6.22.0" apply false
+  id("com.diffplug.spotless") version "6.23.3" apply false
 }
 
 buildscript {
