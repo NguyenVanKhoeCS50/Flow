@@ -23,7 +23,7 @@ buildscript {
     classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion")
     classpath("com.diffplug.spotless:spotless-plugin-gradle:6.22.0")
     classpath("dev.drewhamilton.poko:poko-gradle-plugin:0.15.0")
-    classpath("com.github.ben-manes:gradle-versions-plugin:0.46.0")
+    classpath("com.github.ben-manes:gradle-versions-plugin:0.51.0")
   }
 }
 
